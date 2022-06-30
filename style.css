@@ -17,7 +17,7 @@ form{
     border-radius: 5px;
     box-shadow: 5px 5px 6px -7px;
 }
-input[type='email'], input[type='password']{
+input[type='email/number'], input[type='password']{
     display: block;
     background-color: #fff;
     margin: auto;

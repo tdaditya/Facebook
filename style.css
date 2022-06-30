@@ -71,6 +71,9 @@ button{
     font-size: 12px;
     font-weight: 600;
 }
+.bnt2{
+    color="white"
+}
 .sub-link h3 a{
     color: black;
     font-weight: bold;
